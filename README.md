@@ -1,5 +1,4 @@
 # PurePullRefreshView
-# PureImageView
 ### 功能介绍
 ### 效果图
 ### 如何使用
