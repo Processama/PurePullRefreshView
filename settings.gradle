@@ -1,0 +1,3 @@
+include ':PurePullRefreshView'
+include ':app'
+rootProject.name = "CustomPullRefreshView"
